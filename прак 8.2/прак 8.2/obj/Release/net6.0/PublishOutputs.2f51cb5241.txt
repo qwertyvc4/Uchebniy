@@ -1,0 +1,5 @@
+C:\Users\Juliya\Desktop\бла бла\прак 8.2\прак 8.2\bin\Release\net6.0\app.publish\прак 8.2.exe
+C:\Users\Juliya\Desktop\бла бла\прак 8.2\прак 8.2\bin\Release\net6.0\app.publish\прак 8.2.dll
+C:\Users\Juliya\Desktop\бла бла\прак 8.2\прак 8.2\bin\Release\net6.0\app.publish\прак 8.2.deps.json
+C:\Users\Juliya\Desktop\бла бла\прак 8.2\прак 8.2\bin\Release\net6.0\app.publish\прак 8.2.runtimeconfig.json
+C:\Users\Juliya\Desktop\бла бла\прак 8.2\прак 8.2\bin\Release\net6.0\app.publish\прак 8.2.pdb
